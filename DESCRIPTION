@@ -1,9 +1,9 @@
 Package: KursClimateDataFAU
 Type: Package
-Title: Collection of Functions for CDA (Title Case)
+Title: Collection of Functions for CDA 
 Version: 0.1.0
 Author: Lukas Strobel
-Maintainer: Lukas Strobel <yourself@somewhere.net>
+Maintainer: Lukas Strobel 
 Description: A collection of some Functions i often use for Climate Data Modeling (maybe more than one line)
 License: What license is it under?
 Encoding: UTF-8
