@@ -1,5 +1,3 @@
-
-
 #' Convert temperature in Kelvin to Celsius
 #'
 #' This function takes in a temperature in Kelvin and returns the
